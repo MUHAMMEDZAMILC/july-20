@@ -8,6 +8,8 @@ body{
 .container{
     display:block;
     justify-content: space-between;
+    padding:10%;
+    background:cyan;
 }
 .result{
     text-align: end;
@@ -16,11 +18,10 @@ body{
     color: #fff;
     height: 70px;
     width: 100%;
+    
     line-height: 70px;
-    padding: 16px 8px;
     font-size: 25px;
     background: #302c2c;
-    /* padding-top: 10px; */
 }
 
 
